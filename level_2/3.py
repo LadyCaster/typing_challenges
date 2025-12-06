@@ -4,7 +4,7 @@ from constants import ___
 
 
 def get_transaction_amount(transaction_id: ___, transactions_amounts_map: ___) -> ___:
-    pass
+    return None
 
 
 if __name__ == "__main__":
