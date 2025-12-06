@@ -2,7 +2,7 @@ from constants import ___
 
 
 def get_current_user() -> ___:
-    pass
+    return None
 
 
 if __name__ == "__main__":
